@@ -3,7 +3,7 @@ import discord
 import random
 
 # Token
-token = 'MTAyNzg1ODA0MjI0ODc2MTM0NA.GMYvY5.sYYVkPLoVsvuHrI8KzMcsv0hLW2yCkR13IHD4E'
+token = 'your token here'
 
 bot = commands.Bot(command_prefix='-', intents=discord.Intents.all())
 
